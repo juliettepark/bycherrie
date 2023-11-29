@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bycherrie/static/css/main.f1690df3.css",
+    "main.js": "/bycherrie/static/js/main.8f5ce273.js",
+    "static/js/787.b8eb5a4f.chunk.js": "/bycherrie/static/js/787.b8eb5a4f.chunk.js",
+    "index.html": "/bycherrie/index.html",
+    "main.f1690df3.css.map": "/bycherrie/static/css/main.f1690df3.css.map",
+    "main.8f5ce273.js.map": "/bycherrie/static/js/main.8f5ce273.js.map",
+    "787.b8eb5a4f.chunk.js.map": "/bycherrie/static/js/787.b8eb5a4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1690df3.css",
+    "static/js/main.8f5ce273.js"
+  ]
+}
